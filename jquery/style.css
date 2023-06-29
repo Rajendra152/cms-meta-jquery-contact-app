@@ -1,0 +1,36 @@
+p{
+    color: blue;
+    text-align: center;
+}
+
+#one{
+    width: 100px;
+    height: 100px;
+    background-color: violet;
+    margin-bottom: 5px;
+    position: absolute;
+}
+
+
+#two{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(212, 196, 166);
+    margin-bottom: 5px;
+}
+
+
+#three{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(33, 155, 80);
+    margin-bottom: 5px;
+}
+
+
+#four{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(182, 164, 182);
+    margin-bottom: 5px;
+}
